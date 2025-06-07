@@ -15,15 +15,15 @@ I'm a **Full Stack Developer** with a Bachelor's degree in Computer Science from
 - **Frontend**: React, JavaScript, HTML/CSS
 - **Backend**: Laravel, Python (Flask)
 - **APIs**: RESTful architecture
-- **Database**: MySQL
+- **Database**: MySQL, SQLite
 
-## 🔥 Current Projects
+<!-- ## 🔥 Current Projects
 
 <div align="center">
   <a href="https://github.com/aesencodes/portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aesencodes&repo=portfolio&theme=radical" alt="Portfolio Repo">
   </a>
-</div>
+</div> -->
 
 ## 🛠 Tech Stack
 
@@ -41,21 +41,21 @@ I'm a **Full Stack Developer** with a Bachelor's degree in Computer Science from
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
-  
+
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aesencodes&show_icons=true&theme=radical&hide_border=true)
-  
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aesencodes&layout=compact&theme=radical&hide_border=true)
 
-</div>
+</div> -->
 
 ## 💼 Open to Opportunities
 
 I'm actively looking for:
 
-- **Full-time positions** as a Full Stack Developer
+- **Full-time positions** as a Full-Stack Developer
 - **Contract work** for web development projects
 - **Collaborations** on innovative tech projects
 
@@ -64,14 +64,14 @@ I'm actively looking for:
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adjiesuryanugraha1@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aesencodes.github.io)
   
 </div>
 
 ---
 
-<div align="center">
+<div>
   
   ```javascript
   if (you.haveOpportunity()) {
@@ -79,5 +79,5 @@ I'm actively looking for:
     collaboration.connect("aesencodes");
   }
   <sub>✨ Let's build something amazing together!</sub>
-
-</div> ```
+```
+</div>
