@@ -1,12 +1,11 @@
 # Hey, I'm Adjie 👋
 
-Software Developer · Computer Science · Quantitative Finance
+Software Developer · Quantitative Finance
 
-**Bachelor of Engineering in Informatics** from **Institut Teknologi Sumatera, Indonesia**.
+**B.Eng. in Informatics** · Institut Teknologi Sumatera, Indonesia
+**MSc Financial Engineering** · 2026–Present
 
-Currently pursuing an **MSc in Financial Engineering**.
-
-*New field. New game.*
+*Still building software. Now learning to model markets.*
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat)
 
@@ -14,37 +13,21 @@ Currently pursuing an **MSc in Financial Engineering**.
 
 ### 🔧 Stack
 
-**Web:** React · Next.js · TailwindCSS · Jekyll
-
-**Backend:** Laravel · Flask
-
-**Database:** MySQL · SQLite
-
-**Mobile:** React Native
-
-**Languages:** Python · JavaScript
+React · Next.js · TailwindCSS · Jekyll
+Laravel · Flask · React Native
+Python · JavaScript · MySQL · SQLite
 
 ---
 
-### 📐 Currently Exploring
+### 📐 Exploring
 
-Quantitative Finance · Financial Engineering · Machine Learning
+Quantitative Finance · Machine Learning
 Financial Data · Statistics · Mathematical Modeling
 
 ---
 
-### 🎓 Background
-
-**MSc Financial Engineering**
-*2026 – Present*
-
-**Bachelor of Engineering in Informatics**
-Institut Teknologi Sumatera · Indonesia
-
----
-
-> From building software to modeling markets.
-> The next chapter is quantitative.
+> Building software by day.
+> Exploring quantitative finance along the way.
 
 ---
 
