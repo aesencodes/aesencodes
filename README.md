@@ -3,6 +3,7 @@
 Software Developer · Quantitative Finance
 
 **B.Eng. in Informatics** · Institut Teknologi Sumatera, Indonesia
+
 **MSc Financial Engineering** · 2026–Present
 
 *Still building software. Now learning to model markets.*
